@@ -20,7 +20,7 @@ const Header = () => {
           <div className='location__search__seperator'></div>
           <div className='header__searchBar'>
             {/* <i className="fi fi-sr-search absolute__center search__icon"></i> */}
-            <img src='/public/magnifying-glass.png' className='header__search__img' />
+            <img src='https://res.cloudinary.com/dm34wmjlm/image/upload/v1694082963/Zomato-Frontend/magnifying-glass_rzc1bm.png' className='header__search__img' />
             <input placeholder='Search for restaurant, cuisine or a dish' className='search__input' />
           </div>
         </div>
