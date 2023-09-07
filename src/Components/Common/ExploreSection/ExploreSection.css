@@ -1,0 +1,9 @@
+.explore__section{
+        margin-top: 16px;
+}
+
+.explore__grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
