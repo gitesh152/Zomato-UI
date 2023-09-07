@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types'
 import Slider from 'react-slick'
-import NextArrow from '../Carousel/nextArrow';
-import PrevArrow from '../Carousel/PrevArrow';
+import NextArrow from '../Carousel/nextArrow.jsx';
+import PrevArrow from '../Carousel/PrevArrow.jsx';
 import './Collection.css'
 import { useEffect, useState } from 'react';
 import DummyCollection from '../Dummy/DummyCollection';
