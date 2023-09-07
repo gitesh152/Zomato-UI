@@ -10,7 +10,7 @@
     Zomato UI Clone.
     <br />
     <br />
-    <a target="_blank" href="https://zomato-ui.netlify.app/" >Live Preview</a>
+    <a target="_blank" href="https://zomato-ui-zomato.netlify.app/" >Live Preview</a>
     
   </p>
 </div>
